@@ -91,6 +91,8 @@ To get a local copy up and running
 
 In order to run this project you need:
 
+-A working computer
+-Connection to internet
 -visual studio
 -github
 
@@ -101,7 +103,7 @@ Clone this repository to your desired folder:
 ```sh
   mkdir my-folder
   cd my-folder
-  git clone git@github.com:Eldonratzlaff/mathMagicians.git
+  git clone git@github.com:Eldonratzlaff/mathmagiciansnew.git
 ```
 ### Install
 
