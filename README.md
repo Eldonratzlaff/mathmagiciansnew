@@ -75,8 +75,8 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 >
-
-- [Live Demo Link](https://github.com/Eldonratzlaff/mathMagicians)
+-Live demo will be added soon
+<!-- - [Live Demo Link](https://github.com/Eldonratzlaff/mathMagicians)-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

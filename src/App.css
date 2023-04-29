@@ -135,8 +135,8 @@
 
 .calculator-conteiner {
   background-color: beige;
-  width: 50vw;
-  height: 40vw;
+  width: 40vw;
+  height: 30vw;
   display: grid;
   grid-template:
     'result result result result'
@@ -145,4 +145,12 @@
     'number4 number5 number6 minus'
     'number1 number2 number3 addition'
     'number0 number0 number-dot iqual';
+}
+
+.quoteBox {
+  display: flex;
+  width: 40vw;
+  border: solid 4px white;
+  margin: 1vh 0 0 0;
+  padding: 5px;
 }
