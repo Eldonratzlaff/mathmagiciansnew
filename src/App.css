@@ -1,3 +1,17 @@
+.logo{
+  font-size: 30px;
+  color: black;
+}
+
+
+.navbar {
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  font-size: 40px;
+  color: rgb(41, 37, 37);
+}
 
 .App-header {
   background-color: #282c34;
